@@ -1,5 +1,2 @@
 # Tic-Tac-Toe 
-It is a simple project built using HTML, CSS and Javascript. The game is to be played with 2 players.
-One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
-The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’)
- If no one wins, then the game is said to be draw.
+ It is a game in which two players alternatively put ‘X’ and ‘O’ in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three ‘X’ and three ‘O’ before the opponent does.
